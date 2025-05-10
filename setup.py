@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='imgwizard',
-    version='0.0.1',
+    version='2025.05.100908',
     author='Eugene Evstafev',
     author_email='chigwel@gmail.com',
     description='Simple image resizing and caching using wsrv.nl service',
